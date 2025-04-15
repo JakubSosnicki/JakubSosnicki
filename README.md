@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakubSosnicki
 - 👀 I’m interested in programming, mountain climbing, metal detecting and volleyball.
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning JAVA, SQL and QGIS
 - 📫 How to reach me Mail: kubasosnicki@gmail.com Linkedin: www.linkedin.com/in/jakub-sosnicki
 - 😄 Normal Guy
 - ⚡ Fun fact: WW2 History fun
